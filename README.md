@@ -145,18 +145,6 @@ data/<dataset_name>/
 └── files_preprocessed/     # Preprocessed documents for indexing
 ```
 
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{unweaver2026,
-  title={UnWeaving the knots of GraphRAG - turns out VectorRAG is almost enough},
-  author={Ryszard Tuora, Mateusz Galiński, Michał Godziszewski, Michał Karpowicz, Mateusz Czyżnikiewicz, Adam Kozakiewicz, Tomasz Ziętkiewicz},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
-}
-```
 
 ## Contact
 
